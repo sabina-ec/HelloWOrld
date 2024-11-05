@@ -3,5 +3,6 @@ public class HelloWorld {
         System.out.println("Hello cat");
         // skriva ut Hello World på skärm
         System.out.println("Hello dog");
+        System.out.println("Hello Sabina!");
     }
 }
